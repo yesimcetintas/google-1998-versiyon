@@ -1,0 +1,40 @@
+.div-1{
+    background-color: #EEEEEE;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 2px;
+}
+.div-2{
+    background-color: #7EE5DA;
+    float: left;
+    width: 405px;
+    height: 70px;
+    margin-left: 100px;
+    text-align: center;
+    padding: 5px;
+}
+.div-3{
+    background-color: #70CCC2;
+    float: left;
+    width: 230px;
+    height: 70px;
+    margin-left: 2px;
+    text-align: center;
+    padding: 5px;
+    font-size: 13px;
+}
+.div-4{
+    background-color: #62B3AA;
+    float: left;
+    width: 480px;
+    height: 70px;
+    margin-left: 2px;
+    text-align: center;
+    padding: 5px;
+    font-size: 13px;
+}
+.div-5{
+    font-size: 13px;
+    clear: both;
+}
